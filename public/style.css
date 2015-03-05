@@ -1,0 +1,38 @@
+body {
+  background-image: url("../../images/sun_background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+nav img {
+  width: 15%;
+  border-radius: 152px;
+  margin-left: 42%;
+}
+
+nav h1 {
+  text-align: center;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 62px;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+h3 {
+  color: white;
+  text-align: center;
+}
+
+div.col {
+  display: inline-block;
+  margin-left: 6%;
+  width: 359px;
+  height: 359px;
+  border-radius: 50%;
+  background-color: rgba(200, 50, 50, 0.5);
+}
